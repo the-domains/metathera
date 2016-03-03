@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MetaThera]]></title>
         <description><![CDATA[MetaThera]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/metathera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 14:13:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 14:25:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/metathera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Raising awareness: Menkes Disease]]></title>
-            <description><![CDATA[<article><h1>Raising awareness: Menkes Disease</h1><p>Menkes Disease</p></article>]]></description>
-            <link>undefinedraising-awareness-menkes-disease/index.html</link>
+            <title><![CDATA[Raising Rare Disease Awareness: Menkes Disease]]></title>
+            <description><![CDATA[<article><h1>Raising Rare Disease Awareness: Menkes Disease</h1><p>Menkes Disease</p></article>]]></description>
+            <link>https://thegrid.ai/metathera/raising-awareness-menkes-disease/index.html</link>
             <guid isPermaLink="false">0ede44c9-63d0-4171-be8f-f47692b33d73</guid>
-            <pubDate>Thu, 03 Mar 2016 14:13:10 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 14:24:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
