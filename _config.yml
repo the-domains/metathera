@@ -1,0 +1,28 @@
+name: MetaThera
+favicon: null
+layout_spectrum: 0.6275451148394495
+typography_spectrum: 0.0348906465806067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5663052808959037
+  lightness: 0.999364480143413
+  saturation: 0.44728795485571027
+  rhythmicContrast: 0.4422451895661652
+purpose: []
