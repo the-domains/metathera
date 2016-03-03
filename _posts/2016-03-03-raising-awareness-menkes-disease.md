@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T14:13:10.035Z'
-dateModified: '2016-03-03T14:12:51.091Z'
-title: 'Raising awareness: Menkes Disease'
+datePublished: '2016-03-03T14:24:49.347Z'
+dateModified: '2016-03-03T14:23:56.937Z'
+title: 'Raising Rare Disease Awareness: Menkes Disease'
 author: []
+sourcePath: _posts/2016-03-03-raising-awareness-menkes-disease.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-raising-awareness-menkes-disease.md
-published: true
 url: raising-awareness-menkes-disease/index.html
 _type: Article
 
